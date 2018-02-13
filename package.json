@@ -1,0 +1,29 @@
+{
+  "name": "vuex-schema",
+  "version": "1.0.0",
+  "description": "Vuex helpers based on a JSON schema template",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src test"
+  },
+  "keywords": [
+    "vue",
+    "vuex"
+  ],
+  "author": "James Stuckey Weber",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.2.2",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.17.0",
+    "eslint-plugin-html": "^4.0.2",
+    "eslint-plugin-jest": "^21.12.0",
+    "eslint-plugin-vue-libs": "^2.1.0",
+    "jest": "^22.2.2",
+    "webpack": "^3.11.0"
+  }
+}
