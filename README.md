@@ -1,6 +1,10 @@
 # Vuex schema
 
-Vuex helpers based on a JSON schema template
+Vuex helpers based on a JSON schema template.
+
+## Example
+
+See the [example](examples/simples.js) to see how it can create a simple vuex module boilerplate.
 
 ## Helpers
 
@@ -32,6 +36,17 @@ In addition, some types support additional mutatations.
 
 More mutations coming.
 
+## Feature roadmap
+
+* Add number mutations
+* Add array mutations
+* Add object mutations
+* State validation to schema
+
 ## Tests
 
 Run `npm run test` to run the test suite.
+
+## Inspiration
+
+This was inspired by a Reddit post that suggested that mutations could be created automatically based on a state's type. I can no longer find the post.

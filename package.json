@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
-    "lint": "eslint src test"
+    "lint": "eslint src test examples"
   },
   "keywords": [
     "vue",
