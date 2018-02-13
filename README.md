@@ -4,7 +4,7 @@ Vuex helpers based on a JSON schema template.
 
 ## Example
 
-See the [example](examples/simples.js) to see how it can create a simple vuex module boilerplate.
+See the [example](examples/simple.js) to see how it can create a simple vuex module boilerplate.
 
 ## Helpers
 
